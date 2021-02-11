@@ -40,7 +40,7 @@ for i in range(len(text)):
 smtp_ssl_host = 'smtp.gmail.com'
 smtp_ssl_port = 465
 username = "luizalexandremoreira21@gmail.com"
-password='20031997l'
+password='password"
 
 from_addr = 'luizalexandremoreira21@gmail.com'
 to_addrs = ['Luizalexandre21@outlook.com']
